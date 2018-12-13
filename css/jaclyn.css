@@ -1,0 +1,35 @@
+body {
+  border: solid/* Remove the margin */
+  margin: 0;
+
+  /* Set the font-family to Helvetica, Arial, sans-serif */
+  font-family: 'Rubik', Helvetica, Arial, sans-serif;
+
+  /*  Default font fallback keyword => sans-serif, serif, monospaced, cursive */
+
+  /* Increase the line height to 1.5 times the default font-size */
+  line-height: 1.5;
+}
+
+h1  {
+  text-align:center;
+}
+
+p {
+text-align: center;
+}
+
+.achievements {text-align: center;
+}
+id=runnning calendar {text-align: center;}
+
+h1 {
+  border:1px solid hotpink; border-style: double;
+}
+
+h2 {text-align: center;
+}
+
+strong {background-color: pink;}
+
+article {background-color: pink;}
