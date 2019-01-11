@@ -1,5 +1,5 @@
 body {
-  border: solid/* Remove the margin */
+  border: solid;/* Remove the margin */
   margin: 0;
 
   /* Set the font-family to Helvetica, Arial, sans-serif */
@@ -21,10 +21,11 @@ text-align: center;
 
 .achievements {text-align: center;
 }
-id=runnning calendar {text-align: center;}
+#runnning-calendar {text-align: center;}
 
 h1 {
-  border:1px solid hotpink; border-style: double;
+  border:1px solid hotpink;
+  border-style: double;
 }
 
 h2 {text-align: center;
